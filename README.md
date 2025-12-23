@@ -48,7 +48,7 @@ leon-studio/
 
 ### 1. 克隆項目
 ```bash
-git clone https://github.com/yourusername/leon-studio.git
+git clone https://github.com/Leon-cypher/leon-studio.git
 cd leon-studio
 ```
 
@@ -84,7 +84,7 @@ npm run dev
   category: 'frontend', // frontend, fullstack, backend, library, tool
   technologies: ['React', 'Node.js', '...'],
   demoLink: 'https://your-demo-link.com',
-  githubLink: 'https://github.com/yourusername/project',
+  githubLink: 'https://github.com/Leon-cypher/project',
   featured: true, // 是否為精選項目
   status: 'completed', // completed, active, development
   developmentTime: '2024年3月'
@@ -164,7 +164,7 @@ MIT License - 詳見 [LICENSE](LICENSE) 文件
 ## 👤 作者
 
 **Leon** - Vibe Coding 愛好者
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Leon-cypher](https://github.com/Leon-cypher)
 - Email: leon.studio@example.com
 
 ---

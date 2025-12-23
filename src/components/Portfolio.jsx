@@ -13,7 +13,7 @@ const Portfolio = () => {
       category: 'fullstack',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
       demoLink: 'https://your-ecommerce-demo.vercel.app',
-      githubLink: 'https://github.com/yourusername/ecommerce-project',
+      githubLink: 'https://github.com/Leon-cypher/ecommerce-project',
       featured: true,
       status: 'completed',
       developmentTime: '2024年3月'
@@ -26,7 +26,7 @@ const Portfolio = () => {
       category: 'frontend',
       technologies: ['Vue 3', 'TypeScript', 'Pinia', 'Tailwind'],
       demoLink: 'https://your-taskmanager-demo.netlify.app',
-      githubLink: 'https://github.com/yourusername/vue-task-manager',
+      githubLink: 'https://github.com/Leon-cypher/vue-task-manager',
       featured: true,
       status: 'completed',
       developmentTime: '2024年2月'
@@ -39,7 +39,7 @@ const Portfolio = () => {
       category: 'library',
       technologies: ['React', 'Storybook', 'CSS-in-JS', 'TypeScript'],
       demoLink: 'https://your-ui-kit-storybook.vercel.app',
-      githubLink: 'https://github.com/yourusername/react-ui-components',
+      githubLink: 'https://github.com/Leon-cypher/react-ui-components',
       featured: false,
       status: 'active',
       developmentTime: '2024年1月'
@@ -52,7 +52,7 @@ const Portfolio = () => {
       category: 'frontend',
       technologies: ['React', 'OpenWeather API', 'Chart.js', 'PWA'],
       demoLink: 'https://your-weather-app.surge.sh',
-      githubLink: 'https://github.com/yourusername/weather-forecast',
+      githubLink: 'https://github.com/Leon-cypher/weather-forecast',
       featured: false,
       status: 'completed',
       developmentTime: '2023年12月'
@@ -65,7 +65,7 @@ const Portfolio = () => {
       category: 'backend',
       technologies: ['Node.js', 'Express', 'JWT', 'Swagger'],
       demoLink: 'https://api-docs.your-service.herokuapp.com',
-      githubLink: 'https://github.com/yourusername/nodejs-api-service',
+      githubLink: 'https://github.com/Leon-cypher/nodejs-api-service',
       featured: true,
       status: 'completed',
       developmentTime: '2023年11月'
@@ -78,7 +78,7 @@ const Portfolio = () => {
       category: 'tool',
       technologies: ['JavaScript', 'Chrome APIs', 'Webpack', 'CSS3'],
       demoLink: 'https://chrome.google.com/webstore/detail/your-extension',
-      githubLink: 'https://github.com/yourusername/chrome-productivity-extension',
+      githubLink: 'https://github.com/Leon-cypher/chrome-productivity-extension',
       featured: false,
       status: 'completed',
       developmentTime: '2023年10月'
@@ -210,10 +210,10 @@ const Portfolio = () => {
           ))}
         </div>
         
-        <div className="portfolio-cta">
+          <div className="portfolio-cta">
           <p>想看更多項目？</p>
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/Leon-cypher" 
             className="github-profile-btn"
             target="_blank" 
             rel="noopener noreferrer"

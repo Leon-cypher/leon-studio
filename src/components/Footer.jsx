@@ -12,7 +12,7 @@ const Footer = () => {
             <p>創造優秀的數位體驗</p>
           </div>
           <div className="footer-social">
-            <a href="#" className="social-link" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Leon-cypher" className="social-link" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-github"></i>
             </a>
             <a href="#" className="social-link" target="_blank" rel="noopener noreferrer">
