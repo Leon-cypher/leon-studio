@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/leon-studio/', // 替換為你的GitHub倉庫名稱
+  base: '/leon-studio/', // GitHub倉庫名稱
   server: {
     port: 3000,
     open: true
