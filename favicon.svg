@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- 深色背景 -->
+  <rect width="32" height="32" rx="7" fill="#0a0a0a"/>
+  <!-- L 豎筆：x=6, y=6 → 高度 20，底部在 y=26 -->
+  <rect x="6" y="6" width="3.5" height="20" rx="1.5" fill="#F5A623"/>
+  <!-- L 橫筆：同底邊 y=22.5，高度 3.5 → 底部同樣在 y=26 -->
+  <rect x="6" y="22.5" width="11" height="3.5" rx="1.5" fill="#F5A623"/>
+  <!-- 金點 -->
+  <circle cx="25.5" cy="25" r="2" fill="#F5A623"/>
+</svg>
